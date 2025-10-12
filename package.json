@@ -12,6 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.15.19",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "typescript": "^5.9.2"
   }
 }
